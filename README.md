@@ -8,9 +8,9 @@ The course structure is as follows . The course is designed to run for 5-6 weeks
 * Each Unit has 1 video and accompanying programming assignments  
 * For each programming assigment ,1 directory is created.
 * Each Directory contains
-** p1_q contains the problem statement
-** metadata contains the metadata regarding difficulty level, tags etc.
-** 
+..* p1_q contains the problem statement
+..* metadata contains the metadata regarding difficulty level, tags etc.
+..* 
 
 
 This structure allows processing of the question bank by a program.
